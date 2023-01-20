@@ -2,17 +2,18 @@
 
 # Contents
 
-- [Open-Bicycle-Lights](##open-bicycle-lights)
-- [Goal](##goal)
-    - [Primary](##primary)
-    - [Secondary](##secondary)
-- [parts](##parts)
-    - [necessary](##necessary)
-    - [optional](##optional)
-- [sources](##sources)
-    - [YT (YouTube)](##yt-youtube)
-        - [Front Lights](##front-lights)
-        - [Rear Lights](##rear-lights)
+- [Open-Bicycle-Lights](#open-bicycle-lights)
+    - [Goal](#goal)
+    - [Factors to consider](#factors-to-consider)
+    - [parts](#parts)
+        - [necessary](#necessary)
+        - [optional](#optional)
+    - [sources](#sources)
+        - [YT (YouTube)](#yt-youtube)
+            - [Full Light System](#full-light-system)
+            - [Front Lights](#front-lights)
+            - [Rear Lights](#rear-lights)
+            - [Other References](#other-references)
 
 ## Goal 
 Make a Bicycle Light
