@@ -18,15 +18,21 @@
 ## Goal 
 Make a Bicycle Light
 
+## Legal
+[Germany](https://www.tuvsud.com/de-de/wissenswert/insicht/fahrradbeleuchtung)
+
 ## Factors to consider
 - Cost
 - Duration
 - Power Consumption
 - Weight
 - Safety
+- Brightness
 - Water-proofing
 - Heat Dissappation (LED)
 - Battery replacable
+- CRI (Colour Rendering Index)
+- USB Recharge Port
 
 ## parts
 ### necessary
@@ -34,14 +40,34 @@ Make a Bicycle Light
 - [ ] LED (Light Emitting Diode)
 - [ ] Battery
 - [ ] Reflector
+- [ ] Lens
 - [ ] on/off switch
+- [ ] usb type-c power receiver Board
 
 ### optional
 
 - [ ] PCB (Printed Circuit Board)
 - [ ] focus mechanism
+- [ ] Heat sink + thermal compound
+- [ ] cable sleeving
 
+## LED
 
+### current sensitive device 
+- can draw more current then designed
+- to much current reduces life span
+
+low powered led can just be used with a resistore
+
+### COP (Chip On Board)
+
+- Brighter
+- harder to focus
+- requires advanced curcuitry
+    - Led Drivers
+    - Voltage regulator
+
+### LED Strips
 
 ## sources
 ### YT (YouTube)
