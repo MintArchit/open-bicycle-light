@@ -1,6 +1,6 @@
 # Open-Bicycle-Lights
 
-## Contents
+# Contents
 
 - [Open-Bicycle-Lights](##open-bicycle-lights)
 - [Goal](##goal)
