@@ -4,10 +4,15 @@
 
 - [Open-Bicycle-Lights](#open-bicycle-lights)
     - [Goal](#goal)
+    - [Legal](#legal)
     - [Factors to consider](#factors-to-consider)
     - [parts](#parts)
         - [necessary](#necessary)
         - [optional](#optional)
+    - [LED](#led)
+        - [current sensitive device](#current-sensitive-device)
+        - [COP (Chip On Board)](#cop-chip-on-board)
+        - [LED Strips](#led-strips)
     - [sources](#sources)
         - [YT (YouTube)](#yt-youtube)
             - [Full Light System](#full-light-system)
@@ -18,8 +23,8 @@
 ## Goal 
 Make a Bicycle Light
 
-## Legal
-[Germany](https://www.tuvsud.com/de-de/wissenswert/insicht/fahrradbeleuchtung)
+## Legality
+[Germany | Allowed **only** with Certification](https://www.tuvsud.com/de-de/wissenswert/insicht/fahrradbeleuchtung)
 
 ## Factors to consider
 - Cost
